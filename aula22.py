@@ -1,0 +1,1 @@
+print(False and False and False and True)

@@ -1,7 +1,5 @@
-# if / elif     / else
-# se / se não se / se não
-# o codigo so executara se a condição apresentada for verdadeira, e iria executar somente oq ta    # # escrito 
-# if pode viver sozinho!
+# Apenas teste para usar o debbuger do python !
+
 condicao= False
 condicao_1= False
 condicao_2= True 
